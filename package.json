@@ -1,0 +1,13 @@
+{
+  "name": "graphql-pulumi",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@pulumi/aws": "^5.0.0",
+    "@pulumi/awsx": "^1.0.0",
+    "@pulumi/pulumi": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
